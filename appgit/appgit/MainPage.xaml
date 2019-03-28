@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:appgit"
              x:Class="appgit.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
+	<Label Text="Versão 0.0.1" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
